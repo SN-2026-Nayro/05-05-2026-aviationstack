@@ -22,7 +22,7 @@ import requests
 # ── Configuracoes ─────────────────────────────────────────────────────────────
 
 API_KEY      = os.environ.get("AVIATIONSTACK_KEY", "").strip()
-airports_env = os.environ.get("AIRPORTS", "SBCA")
+airports_env = os.environ.get("AIRPORTS", "SBCA,SBMG,SBSP")
 AIRPORTS     = [a.strip().upper() for a in airports_env.split(",") if a.strip()]
 API_BASE     = "http://api.aviationstack.com/v1"   # HTTP no plano gratuito
 
