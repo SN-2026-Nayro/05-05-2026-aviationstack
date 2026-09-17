@@ -1,79 +1,106 @@
 {
-  "updated_at": "2026-09-16T16:24:50.270985+00:00",
+  "updated_at": "2026-09-17T16:31:23.255130+00:00",
   "airport_icao": "SBSP",
   "airport_name": "Sao Paulo / Congonhas",
   "source": "AviationStack",
   "arrivals": [
     {
-      "callsign": "JJ3121",
+      "callsign": "LA3643",
       "airline": "LATAM Airlines",
-      "airport": "SBLO",
-      "airport_name": "Londrina",
-      "scheduled": "2026-09-16T14:15:00+00:00",
-      "time_iso": "2026-09-16T14:15:00+00:00",
+      "airport": "SBVT",
+      "airport_name": "Vitoria",
+      "scheduled": "2026-09-17T21:10:00+00:00",
+      "time_iso": "2026-09-17T21:10:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "JJ3159",
+      "callsign": "G31043",
+      "airline": "GOL",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T21:10:00+00:00",
+      "time_iso": "2026-09-17T21:10:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3943",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T20:55:00+00:00",
+      "time_iso": "2026-09-17T20:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31041",
+      "airline": "GOL",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T20:40:00+00:00",
+      "time_iso": "2026-09-17T20:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD6055",
+      "airline": "Azul",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T20:35:00+00:00",
+      "time_iso": "2026-09-17T20:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3236",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T20:35:00+00:00",
+      "time_iso": "2026-09-17T20:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31039",
+      "airline": "GOL",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T20:15:00+00:00",
+      "time_iso": "2026-09-17T20:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3803",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T20:15:00+00:00",
+      "time_iso": "2026-09-17T20:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3165",
       "airline": "LATAM Airlines",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T13:55:00+00:00",
-      "time_iso": "2026-09-16T13:55:00+00:00",
+      "scheduled": "2026-09-17T21:25:00+00:00",
+      "time_iso": "2026-09-17T21:25:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "AD6417",
+      "callsign": "AD6144",
       "airline": "Azul",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T21:50:00+00:00",
-      "time_iso": "2026-09-16T21:50:00+00:00",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T20:50:00+00:00",
+      "time_iso": "2026-09-17T20:50:00+00:00",
       "status": "programado"
-    },
-    {
-      "callsign": "G31417",
-      "airline": "GOL",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T21:15:00+00:00",
-      "time_iso": "2026-09-16T21:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP4019",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T21:15:00+00:00",
-      "time_iso": "2026-09-16T21:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3021",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T21:05:00+00:00",
-      "time_iso": "2026-09-16T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JJ3017",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T14:30:00+00:00",
-      "time_iso": "2026-09-16T14:29:00+00:00",
-      "status": "em voo"
     },
     {
       "callsign": "G31439",
       "airline": "GOL",
       "airport": "SBGO",
       "airport_name": "Goiania",
-      "scheduled": "2026-09-16T21:00:00+00:00",
-      "time_iso": "2026-09-16T21:00:00+00:00",
+      "scheduled": "2026-09-17T21:00:00+00:00",
+      "time_iso": "2026-09-17T21:00:00+00:00",
       "status": "programado"
     },
     {
@@ -81,8 +108,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBFL",
       "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T20:40:00+00:00",
-      "time_iso": "2026-09-16T20:40:00+00:00",
+      "scheduled": "2026-09-17T20:40:00+00:00",
+      "time_iso": "2026-09-17T20:40:00+00:00",
       "status": "programado"
     },
     {
@@ -90,8 +117,8 @@
       "airline": "GOL",
       "airport": "SBFL",
       "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T20:35:00+00:00",
-      "time_iso": "2026-09-16T20:35:00+00:00",
+      "scheduled": "2026-09-17T20:35:00+00:00",
+      "time_iso": "2026-09-17T20:35:00+00:00",
       "status": "programado"
     },
     {
@@ -99,26 +126,80 @@
       "airline": "LATAM Airlines",
       "airport": "SBCT",
       "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T20:20:00+00:00",
-      "time_iso": "2026-09-16T20:20:00+00:00",
+      "scheduled": "2026-09-17T20:20:00+00:00",
+      "time_iso": "2026-09-17T20:20:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "JJ4633",
+      "callsign": "AD6417",
+      "airline": "Azul",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T21:50:00+00:00",
+      "time_iso": "2026-09-17T21:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31417",
+      "airline": "GOL",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T21:15:00+00:00",
+      "time_iso": "2026-09-17T21:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP4004",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T21:15:00+00:00",
+      "time_iso": "2026-09-17T21:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3021",
       "airline": "LATAM Airlines",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-09-16T13:30:00+00:00",
-      "time_iso": "2026-09-16T13:18:00+00:00",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T21:05:00+00:00",
+      "time_iso": "2026-09-17T21:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3017",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T14:30:00+00:00",
+      "time_iso": "2026-09-17T14:30:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "JJ3051",
+      "callsign": "JJ3633",
       "airline": "LATAM Airlines",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T14:30:00+00:00",
-      "time_iso": "2026-09-16T14:30:00+00:00",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T15:05:00+00:00",
+      "time_iso": "2026-09-17T14:51:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3031",
+      "airline": "LATAM Airlines",
+      "airport": "SBCY",
+      "airport_name": "Cuiaba",
+      "scheduled": "2026-09-17T14:10:00+00:00",
+      "time_iso": "2026-09-17T14:10:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3159",
+      "airline": "LATAM Airlines",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T13:55:00+00:00",
+      "time_iso": "2026-09-17T13:32:00+00:00",
       "status": "em voo"
     },
     {
@@ -126,62 +207,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBCT",
       "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T13:20:00+00:00",
-      "time_iso": "2026-09-16T13:09:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3633",
-      "airline": "LATAM Airlines",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T15:05:00+00:00",
-      "time_iso": "2026-09-16T14:51:00+00:00",
+      "scheduled": "2026-09-17T13:20:00+00:00",
+      "time_iso": "2026-09-17T12:58:00+00:00",
       "status": "em voo"
-    },
-    {
-      "callsign": "G31657",
-      "airline": "GOL",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T20:55:00+00:00",
-      "time_iso": "2026-09-16T20:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "KL9438",
-      "airline": "KLM",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T20:55:00+00:00",
-      "time_iso": "2026-09-16T20:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AF2040",
-      "airline": "Air France",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T20:55:00+00:00",
-      "time_iso": "2026-09-16T20:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3635",
-      "airline": "LATAM Airlines",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T20:55:00+00:00",
-      "time_iso": "2026-09-16T20:55:00+00:00",
-      "status": "programado"
     },
     {
       "callsign": "LA3941",
       "airline": "LATAM Airlines",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T19:50:00+00:00",
-      "time_iso": "2026-09-16T19:50:00+00:00",
+      "scheduled": "2026-09-17T19:50:00+00:00",
+      "time_iso": "2026-09-17T19:50:00+00:00",
       "status": "programado"
     },
     {
@@ -189,8 +225,8 @@
       "airline": "GOL",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T19:45:00+00:00",
-      "time_iso": "2026-09-16T19:45:00+00:00",
+      "scheduled": "2026-09-17T19:45:00+00:00",
+      "time_iso": "2026-09-17T19:45:00+00:00",
       "status": "programado"
     },
     {
@@ -198,8 +234,26 @@
       "airline": "Azul",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T19:35:00+00:00",
-      "time_iso": "2026-09-16T19:35:00+00:00",
+      "scheduled": "2026-09-17T19:35:00+00:00",
+      "time_iso": "2026-09-17T19:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3635",
+      "airline": "LATAM Airlines",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T20:55:00+00:00",
+      "time_iso": "2026-09-17T20:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31657",
+      "airline": "GOL",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T20:55:00+00:00",
+      "time_iso": "2026-09-17T20:55:00+00:00",
       "status": "programado"
     },
     {
@@ -207,17 +261,8 @@
       "airline": "GOL",
       "airport": "SBRF",
       "airport_name": "Recife",
-      "scheduled": "2026-09-16T21:55:00+00:00",
-      "time_iso": "2026-09-16T21:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5811",
-      "airline": "TAP Air Portugal",
-      "airport": "SBRF",
-      "airport_name": "Recife",
-      "scheduled": "2026-09-16T21:55:00+00:00",
-      "time_iso": "2026-09-16T21:55:00+00:00",
+      "scheduled": "2026-09-17T21:55:00+00:00",
+      "time_iso": "2026-09-17T21:55:00+00:00",
       "status": "programado"
     },
     {
@@ -225,8 +270,8 @@
       "airline": "Azul",
       "airport": "SBRF",
       "airport_name": "Recife",
-      "scheduled": "2026-09-16T21:50:00+00:00",
-      "time_iso": "2026-09-16T21:50:00+00:00",
+      "scheduled": "2026-09-17T21:50:00+00:00",
+      "time_iso": "2026-09-17T21:50:00+00:00",
       "status": "programado"
     },
     {
@@ -234,17 +279,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBRP",
       "airport_name": "Ribeirao Preto",
-      "scheduled": "2026-09-16T19:45:00+00:00",
-      "time_iso": "2026-09-16T19:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3163",
-      "airline": "LATAM Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T20:00:00+00:00",
-      "time_iso": "2026-09-16T20:00:00+00:00",
+      "scheduled": "2026-09-17T19:45:00+00:00",
+      "time_iso": "2026-09-17T19:45:00+00:00",
       "status": "programado"
     },
     {
@@ -252,8 +288,8 @@
       "airline": "GOL",
       "airport": "SBNF",
       "airport_name": "Navegantes",
-      "scheduled": "2026-09-16T20:10:00+00:00",
-      "time_iso": "2026-09-16T20:10:00+00:00",
+      "scheduled": "2026-09-17T20:05:00+00:00",
+      "time_iso": "2026-09-17T20:05:00+00:00",
       "status": "programado"
     },
     {
@@ -261,35 +297,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBMO",
       "airport_name": "Maceio",
-      "scheduled": "2026-09-16T21:35:00+00:00",
-      "time_iso": "2026-09-16T21:35:00+00:00",
+      "scheduled": "2026-09-17T21:35:00+00:00",
+      "time_iso": "2026-09-17T21:35:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "LA3019",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T20:25:00+00:00",
-      "time_iso": "2026-09-16T20:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31505",
-      "airline": "GOL",
-      "airport": "SBPS",
-      "airport_name": "Porto Seguro",
-      "scheduled": "2026-09-16T20:50:00+00:00",
-      "time_iso": "2026-09-16T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5717",
+      "callsign": "TP5833",
       "airline": "TAP Air Portugal",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T19:05:00+00:00",
-      "time_iso": "2026-09-16T19:05:00+00:00",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-09-17T18:50:00+00:00",
+      "time_iso": "2026-09-17T18:50:00+00:00",
       "status": "programado"
     },
     {
@@ -297,17 +315,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBGL",
       "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-09-16T18:50:00+00:00",
-      "time_iso": "2026-09-16T18:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP4163",
-      "airline": "TAP Air Portugal",
-      "airport": "SBGL",
-      "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-09-16T18:50:00+00:00",
-      "time_iso": "2026-09-16T18:50:00+00:00",
+      "scheduled": "2026-09-17T18:50:00+00:00",
+      "time_iso": "2026-09-17T18:50:00+00:00",
       "status": "programado"
     },
     {
@@ -315,26 +324,8 @@
       "airline": "avianca",
       "airport": "SBGL",
       "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-09-16T18:50:00+00:00",
-      "time_iso": "2026-09-16T18:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5982",
-      "airline": "TAP Air Portugal",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T18:45:00+00:00",
-      "time_iso": "2026-09-16T18:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP4148",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T16:55:00+00:00",
-      "time_iso": "2026-09-16T16:55:00+00:00",
+      "scheduled": "2026-09-17T18:50:00+00:00",
+      "time_iso": "2026-09-17T18:50:00+00:00",
       "status": "programado"
     },
     {
@@ -342,8 +333,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T12:55:00+00:00",
-      "time_iso": "2026-09-16T12:40:00+00:00",
+      "scheduled": "2026-09-17T12:55:00+00:00",
+      "time_iso": "2026-09-17T12:41:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3145",
+      "airline": "LATAM Airlines",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-09-17T12:35:00+00:00",
+      "time_iso": "2026-09-17T12:26:00+00:00",
       "status": "pousado"
     },
     {
@@ -351,8 +351,8 @@
       "airline": "Azul",
       "airport": "SBCY",
       "airport_name": "Cuiaba",
-      "scheduled": "2026-09-16T21:00:00+00:00",
-      "time_iso": "2026-09-16T21:00:00+00:00",
+      "scheduled": "2026-09-17T21:00:00+00:00",
+      "time_iso": "2026-09-17T21:00:00+00:00",
       "status": "programado"
     },
     {
@@ -360,26 +360,26 @@
       "airline": "GOL",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T20:15:00+00:00",
-      "time_iso": "2026-09-16T20:15:00+00:00",
-      "status": "cancelado"
+      "scheduled": "2026-09-17T20:15:00+00:00",
+      "time_iso": "2026-09-17T20:15:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "TP4063",
       "airline": "TAP Air Portugal",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T20:15:00+00:00",
-      "time_iso": "2026-09-16T20:15:00+00:00",
-      "status": "cancelado"
+      "scheduled": "2026-09-17T20:15:00+00:00",
+      "time_iso": "2026-09-17T20:15:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "AD4462",
       "airline": "Azul",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T20:00:00+00:00",
-      "time_iso": "2026-09-16T20:00:00+00:00",
+      "scheduled": "2026-09-17T20:00:00+00:00",
+      "time_iso": "2026-09-17T20:00:00+00:00",
       "status": "programado"
     },
     {
@@ -387,8 +387,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T20:00:00+00:00",
-      "time_iso": "2026-09-16T20:00:00+00:00",
+      "scheduled": "2026-09-17T20:00:00+00:00",
+      "time_iso": "2026-09-17T20:00:00+00:00",
       "status": "programado"
     },
     {
@@ -396,53 +396,62 @@
       "airline": "GOL",
       "airport": "SBCT",
       "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T19:30:00+00:00",
-      "time_iso": "2026-09-16T19:30:00+00:00",
-      "status": "cancelado"
+      "scheduled": "2026-09-17T19:30:00+00:00",
+      "time_iso": "2026-09-17T19:30:00+00:00",
+      "status": "programado"
     },
     {
-      "callsign": "JJ3031",
+      "callsign": "LA3019",
       "airline": "LATAM Airlines",
-      "airport": "SBCY",
-      "airport_name": "Cuiaba",
-      "scheduled": "2026-09-16T14:10:00+00:00",
-      "time_iso": "2026-09-16T14:01:00+00:00",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T20:25:00+00:00",
+      "time_iso": "2026-09-17T20:25:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31505",
+      "airline": "GOL",
+      "airport": "SBPS",
+      "airport_name": "Porto Seguro",
+      "scheduled": "2026-09-17T20:50:00+00:00",
+      "time_iso": "2026-09-17T20:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ4633",
+      "airline": "LATAM Airlines",
+      "airport": "SBUL",
+      "airport_name": "Uberlandia",
+      "scheduled": "2026-09-17T13:30:00+00:00",
+      "time_iso": "2026-09-17T13:22:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "JJ3468",
+      "callsign": "JJ3063",
       "airline": "LATAM Airlines",
-      "airport": "SBFZ",
-      "airport_name": "Fortaleza",
-      "scheduled": "2026-09-16T14:05:00+00:00",
-      "time_iso": "2026-09-16T15:08:00+00:00",
-      "status": "programado"
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-09-17T12:20:00+00:00",
+      "time_iso": "2026-09-17T12:17:00+00:00",
+      "status": "em voo"
     },
     {
-      "callsign": "JJ3629",
+      "callsign": "JJ3311",
       "airline": "LATAM Airlines",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T13:40:00+00:00",
-      "time_iso": "2026-09-16T13:57:00+00:00",
-      "status": "programado"
+      "airport": "SBJV",
+      "airport_name": "Joinville",
+      "scheduled": "2026-09-17T12:05:00+00:00",
+      "time_iso": "2026-09-17T11:43:00+00:00",
+      "status": "em voo"
     },
     {
-      "callsign": "JJ3177",
+      "callsign": "JJ3001",
       "airline": "LATAM Airlines",
-      "airport": "SBCG",
-      "airport_name": "Campo Grande",
-      "scheduled": "2026-09-16T13:15:00+00:00",
-      "time_iso": "2026-09-16T12:57:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3145",
-      "airline": "LATAM Airlines",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-09-16T12:35:00+00:00",
-      "time_iso": "2026-09-16T12:23:00+00:00",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T12:45:00+00:00",
+      "time_iso": "2026-09-17T12:20:00+00:00",
       "status": "pousado"
     },
     {
@@ -450,26 +459,26 @@
       "airline": "LATAM Airlines",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T12:20:00+00:00",
-      "time_iso": "2026-09-16T12:08:00+00:00",
+      "scheduled": "2026-09-17T12:20:00+00:00",
+      "time_iso": "2026-09-17T12:03:00+00:00",
       "status": "pousado"
     },
     {
-      "callsign": "JJ3063",
+      "callsign": "JJ3629",
       "airline": "LATAM Airlines",
-      "airport": "SBCT",
-      "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T12:20:00+00:00",
-      "time_iso": "2026-09-16T12:10:00+00:00",
-      "status": "pousado"
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T13:40:00+00:00",
+      "time_iso": "2026-09-17T13:35:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "G31651",
       "airline": "GOL",
       "airport": "SBVT",
       "airport_name": "Vitoria",
-      "scheduled": "2026-09-16T18:50:00+00:00",
-      "time_iso": "2026-09-16T18:50:00+00:00",
+      "scheduled": "2026-09-17T18:50:00+00:00",
+      "time_iso": "2026-09-17T18:50:00+00:00",
       "status": "programado"
     },
     {
@@ -477,8 +486,8 @@
       "airline": "GOL",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T19:10:00+00:00",
-      "time_iso": "2026-09-16T19:10:00+00:00",
+      "scheduled": "2026-09-17T19:10:00+00:00",
+      "time_iso": "2026-09-17T19:10:00+00:00",
       "status": "programado"
     },
     {
@@ -486,8 +495,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T18:50:00+00:00",
-      "time_iso": "2026-09-16T18:50:00+00:00",
+      "scheduled": "2026-09-17T18:50:00+00:00",
+      "time_iso": "2026-09-17T18:50:00+00:00",
       "status": "programado"
     },
     {
@@ -495,8 +504,8 @@
       "airline": "GOL",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T18:35:00+00:00",
-      "time_iso": "2026-09-16T18:35:00+00:00",
+      "scheduled": "2026-09-17T18:25:00+00:00",
+      "time_iso": "2026-09-17T18:25:00+00:00",
       "status": "programado"
     },
     {
@@ -504,53 +513,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T18:15:00+00:00",
-      "time_iso": "2026-09-16T18:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31285",
-      "airline": "GOL",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T19:35:00+00:00",
-      "time_iso": "2026-09-16T19:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5775",
-      "airline": "TAP Air Portugal",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T19:35:00+00:00",
-      "time_iso": "2026-09-16T19:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3143",
-      "airline": "LATAM Airlines",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-09-16T18:30:00+00:00",
-      "time_iso": "2026-09-16T18:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3109",
-      "airline": "LATAM Airlines",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-09-16T19:05:00+00:00",
-      "time_iso": "2026-09-16T19:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA4645",
-      "airline": "LATAM Airlines",
-      "airport": "SBPS",
-      "airport_name": "Porto Seguro",
-      "scheduled": "2026-09-16T20:00:00+00:00",
-      "time_iso": "2026-09-16T20:00:00+00:00",
+      "scheduled": "2026-09-17T18:15:00+00:00",
+      "time_iso": "2026-09-17T18:15:00+00:00",
       "status": "programado"
     },
     {
@@ -558,17 +522,44 @@
       "airline": "LATAM Airlines",
       "airport": "SBSV",
       "airport_name": "Salvador",
-      "scheduled": "2026-09-16T20:05:00+00:00",
-      "time_iso": "2026-09-16T20:05:00+00:00",
+      "scheduled": "2026-09-17T20:05:00+00:00",
+      "time_iso": "2026-09-17T20:05:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "G31437",
+      "callsign": "G31285",
       "airline": "GOL",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-09-16T19:35:00+00:00",
-      "time_iso": "2026-09-16T19:35:00+00:00",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T19:35:00+00:00",
+      "time_iso": "2026-09-17T19:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3143",
+      "airline": "LATAM Airlines",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-09-17T18:30:00+00:00",
+      "time_iso": "2026-09-17T18:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31423",
+      "airline": "GOL",
+      "airport": "SBFI",
+      "airport_name": "Foz do Iguacu",
+      "scheduled": "2026-09-17T19:35:00+00:00",
+      "time_iso": "2026-09-17T19:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3109",
+      "airline": "LATAM Airlines",
+      "airport": "SBFI",
+      "airport_name": "Foz do Iguacu",
+      "scheduled": "2026-09-17T19:05:00+00:00",
+      "time_iso": "2026-09-17T19:05:00+00:00",
       "status": "programado"
     },
     {
@@ -576,8 +567,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBGO",
       "airport_name": "Goiania",
-      "scheduled": "2026-09-16T19:20:00+00:00",
-      "time_iso": "2026-09-16T19:20:00+00:00",
+      "scheduled": "2026-09-17T19:20:00+00:00",
+      "time_iso": "2026-09-17T19:20:00+00:00",
       "status": "programado"
     },
     {
@@ -585,8 +576,8 @@
       "airline": "GOL",
       "airport": "SBGL",
       "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-09-16T18:50:00+00:00",
-      "time_iso": "2026-09-16T18:50:00+00:00",
+      "scheduled": "2026-09-17T18:50:00+00:00",
+      "time_iso": "2026-09-17T18:50:00+00:00",
       "status": "programado"
     },
     {
@@ -594,17 +585,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBFZ",
       "airport_name": "Fortaleza",
-      "scheduled": "2026-09-16T21:35:00+00:00",
-      "time_iso": "2026-09-16T21:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31423",
-      "airline": "GOL",
-      "airport": "SBCN",
-      "airport_name": "SBCN",
-      "scheduled": "2026-09-16T17:35:00+00:00",
-      "time_iso": "2026-09-16T17:35:00+00:00",
+      "scheduled": "2026-09-17T21:35:00+00:00",
+      "time_iso": "2026-09-17T21:35:00+00:00",
       "status": "programado"
     },
     {
@@ -612,35 +594,35 @@
       "airline": "LATAM Airlines",
       "airport": "SBPS",
       "airport_name": "Porto Seguro",
-      "scheduled": "2026-09-16T13:05:00+00:00",
-      "time_iso": "2026-09-16T12:54:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3001",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T12:45:00+00:00",
-      "time_iso": "2026-09-16T12:25:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3311",
-      "airline": "LATAM Airlines",
-      "airport": "SBJV",
-      "airport_name": "Joinville",
-      "scheduled": "2026-09-16T12:05:00+00:00",
-      "time_iso": "2026-09-16T11:45:00+00:00",
+      "scheduled": "2026-09-17T13:05:00+00:00",
+      "time_iso": "2026-09-17T12:49:00+00:00",
       "status": "em voo"
+    },
+    {
+      "callsign": "JJ3097",
+      "airline": "LATAM Airlines",
+      "airport": "SBGO",
+      "airport_name": "Goiania",
+      "scheduled": "2026-09-17T12:10:00+00:00",
+      "time_iso": "2026-09-17T12:00:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3917",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T11:45:00+00:00",
+      "time_iso": "2026-09-17T11:40:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "LA3049",
       "airline": "LATAM Airlines",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T19:00:00+00:00",
-      "time_iso": "2026-09-16T19:00:00+00:00",
+      "scheduled": "2026-09-17T19:00:00+00:00",
+      "time_iso": "2026-09-17T19:00:00+00:00",
       "status": "programado"
     },
     {
@@ -648,8 +630,17 @@
       "airline": "GOL",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T18:45:00+00:00",
-      "time_iso": "2026-09-16T18:45:00+00:00",
+      "scheduled": "2026-09-17T18:45:00+00:00",
+      "time_iso": "2026-09-17T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5982",
+      "airline": "TAP Air Portugal",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T18:45:00+00:00",
+      "time_iso": "2026-09-17T18:45:00+00:00",
       "status": "programado"
     },
     {
@@ -657,8 +648,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T19:45:00+00:00",
-      "time_iso": "2026-09-16T19:45:00+00:00",
+      "scheduled": "2026-09-17T19:45:00+00:00",
+      "time_iso": "2026-09-17T19:45:00+00:00",
       "status": "programado"
     },
     {
@@ -666,8 +657,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T19:05:00+00:00",
-      "time_iso": "2026-09-16T19:05:00+00:00",
+      "scheduled": "2026-09-17T19:05:00+00:00",
+      "time_iso": "2026-09-17T19:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5717",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T19:05:00+00:00",
+      "time_iso": "2026-09-17T19:05:00+00:00",
       "status": "programado"
     },
     {
@@ -675,8 +675,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T19:05:00+00:00",
-      "time_iso": "2026-09-16T19:05:00+00:00",
+      "scheduled": "2026-09-17T19:05:00+00:00",
+      "time_iso": "2026-09-17T19:05:00+00:00",
       "status": "programado"
     },
     {
@@ -684,62 +684,80 @@
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T19:05:00+00:00",
-      "time_iso": "2026-09-16T19:05:00+00:00",
+      "scheduled": "2026-09-17T19:05:00+00:00",
+      "time_iso": "2026-09-17T19:05:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "JJ3917",
+      "callsign": "LA4645",
       "airline": "LATAM Airlines",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T11:45:00+00:00",
-      "time_iso": "2026-09-16T11:50:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3870",
-      "airline": "LATAM Airlines",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T12:35:00+00:00",
-      "time_iso": "2026-09-16T12:45:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3097",
-      "airline": "LATAM Airlines",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-09-16T12:10:00+00:00",
-      "time_iso": "2026-09-16T12:05:00+00:00",
-      "status": "em voo"
+      "airport": "SBPS",
+      "airport_name": "Porto Seguro",
+      "scheduled": "2026-09-17T20:00:00+00:00",
+      "time_iso": "2026-09-17T20:00:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "JJ3035",
       "airline": "LATAM Airlines",
       "airport": "SBFL",
       "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T11:45:00+00:00",
-      "time_iso": "2026-09-16T11:32:00+00:00",
+      "scheduled": "2026-09-17T11:45:00+00:00",
+      "time_iso": "2026-09-17T11:37:00+00:00",
       "status": "em voo"
+    },
+    {
+      "callsign": "JJ3468",
+      "airline": "LATAM Airlines",
+      "airport": "SBFZ",
+      "airport_name": "Fortaleza",
+      "scheduled": "2026-09-17T14:05:00+00:00",
+      "time_iso": "2026-09-17T13:52:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3641",
+      "airline": "LATAM Airlines",
+      "airport": "SBVT",
+      "airport_name": "Vitoria",
+      "scheduled": "2026-09-17T11:10:00+00:00",
+      "time_iso": "2026-09-17T11:34:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "JJ3701",
       "airline": "LATAM Airlines",
       "airport": "SBRP",
       "airport_name": "Ribeirao Preto",
-      "scheduled": "2026-09-16T10:45:00+00:00",
-      "time_iso": "2026-09-16T10:56:00+00:00",
+      "scheduled": "2026-09-17T10:45:00+00:00",
+      "time_iso": "2026-09-17T10:39:00+00:00",
       "status": "pousado"
+    },
+    {
+      "callsign": "JJ3155",
+      "airline": "LATAM Airlines",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T11:35:00+00:00",
+      "time_iso": "2026-09-17T11:19:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AD6039",
+      "airline": "Azul",
+      "airport": "SBFI",
+      "airport_name": "Foz do Iguacu",
+      "scheduled": "2026-09-17T18:40:00+00:00",
+      "time_iso": "2026-09-17T18:40:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "G31031",
       "airline": "GOL",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T18:00:00+00:00",
-      "time_iso": "2026-09-16T18:00:00+00:00",
+      "scheduled": "2026-09-17T18:00:00+00:00",
+      "time_iso": "2026-09-17T18:00:00+00:00",
       "status": "programado"
     },
     {
@@ -747,8 +765,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T17:50:00+00:00",
-      "time_iso": "2026-09-16T17:50:00+00:00",
+      "scheduled": "2026-09-17T17:50:00+00:00",
+      "time_iso": "2026-09-17T17:50:00+00:00",
       "status": "programado"
     },
     {
@@ -756,17 +774,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBRF",
       "airport_name": "Recife",
-      "scheduled": "2026-09-16T19:40:00+00:00",
-      "time_iso": "2026-09-16T19:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31335",
-      "airline": "GOL",
-      "airport": "SBDN",
-      "airport_name": "SBDN",
-      "scheduled": "2026-09-16T18:05:00+00:00",
-      "time_iso": "2026-09-16T18:05:00+00:00",
+      "scheduled": "2026-09-17T19:40:00+00:00",
+      "time_iso": "2026-09-17T19:40:00+00:00",
       "status": "programado"
     },
     {
@@ -774,8 +783,8 @@
       "airline": "Azul",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T18:10:00+00:00",
-      "time_iso": "2026-09-16T18:10:00+00:00",
+      "scheduled": "2026-09-17T18:10:00+00:00",
+      "time_iso": "2026-09-17T18:10:00+00:00",
       "status": "programado"
     },
     {
@@ -783,8 +792,26 @@
       "airline": "LATAM Airlines",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T17:50:00+00:00",
-      "time_iso": "2026-09-16T17:50:00+00:00",
+      "scheduled": "2026-09-17T17:50:00+00:00",
+      "time_iso": "2026-09-17T17:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G32135",
+      "airline": "GOL",
+      "airport": "SBPK",
+      "airport_name": "SBPK",
+      "scheduled": "2026-09-17T17:20:00+00:00",
+      "time_iso": "2026-09-17T17:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31335",
+      "airline": "GOL",
+      "airport": "SBDN",
+      "airport_name": "SBDN",
+      "scheduled": "2026-09-17T18:05:00+00:00",
+      "time_iso": "2026-09-17T18:05:00+00:00",
       "status": "programado"
     },
     {
@@ -792,35 +819,8 @@
       "airline": "GOL",
       "airport": "SBNF",
       "airport_name": "Navegantes",
-      "scheduled": "2026-09-16T17:35:00+00:00",
-      "time_iso": "2026-09-16T17:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD6039",
-      "airline": "Azul",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-09-16T18:40:00+00:00",
-      "time_iso": "2026-09-16T18:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3081",
-      "airline": "LATAM Airlines",
-      "airport": "SBFL",
-      "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T18:15:00+00:00",
-      "time_iso": "2026-09-16T18:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3703",
-      "airline": "LATAM Airlines",
-      "airport": "SBFL",
-      "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T17:30:00+00:00",
-      "time_iso": "2026-09-16T17:30:00+00:00",
+      "scheduled": "2026-09-17T17:35:00+00:00",
+      "time_iso": "2026-09-17T17:35:00+00:00",
       "status": "programado"
     },
     {
@@ -828,17 +828,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBMG",
       "airport_name": "Maringa",
-      "scheduled": "2026-09-16T18:00:00+00:00",
-      "time_iso": "2026-09-16T18:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3011",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T18:30:00+00:00",
-      "time_iso": "2026-09-16T18:30:00+00:00",
+      "scheduled": "2026-09-17T18:00:00+00:00",
+      "time_iso": "2026-09-17T18:00:00+00:00",
       "status": "programado"
     },
     {
@@ -846,8 +837,44 @@
       "airline": "GOL",
       "airport": "SBFZ",
       "airport_name": "Fortaleza",
-      "scheduled": "2026-09-16T19:50:00+00:00",
-      "time_iso": "2026-09-16T19:50:00+00:00",
+      "scheduled": "2026-09-17T19:50:00+00:00",
+      "time_iso": "2026-09-17T19:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3081",
+      "airline": "LATAM Airlines",
+      "airport": "SBFL",
+      "airport_name": "Florianopolis",
+      "scheduled": "2026-09-17T18:15:00+00:00",
+      "time_iso": "2026-09-17T18:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G32143",
+      "airline": "GOL",
+      "airport": "SBNM",
+      "airport_name": "SBNM",
+      "scheduled": "2026-09-17T16:30:00+00:00",
+      "time_iso": "2026-09-17T16:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31427",
+      "airline": "GOL",
+      "airport": "SBCG",
+      "airport_name": "Campo Grande",
+      "scheduled": "2026-09-17T17:55:00+00:00",
+      "time_iso": "2026-09-17T17:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3933",
+      "airline": "LATAM Airlines",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T17:40:00+00:00",
+      "time_iso": "2026-09-17T17:40:00+00:00",
       "status": "programado"
     },
     {
@@ -855,8 +882,8 @@
       "airline": "GOL",
       "airport": "SBCX",
       "airport_name": "Caxias do Sul",
-      "scheduled": "2026-09-16T18:20:00+00:00",
-      "time_iso": "2026-09-16T18:20:00+00:00",
+      "scheduled": "2026-09-17T18:20:00+00:00",
+      "time_iso": "2026-09-17T18:20:00+00:00",
       "status": "programado"
     },
     {
@@ -864,64 +891,28 @@
       "airline": "Azul",
       "airport": "SBCT",
       "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T18:10:00+00:00",
-      "time_iso": "2026-09-16T18:10:00+00:00",
+      "scheduled": "2026-09-17T18:10:00+00:00",
+      "time_iso": "2026-09-17T18:10:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "TP4052",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T14:15:00+00:00",
-      "time_iso": "2026-09-16T14:15:00+00:00",
-      "status": "cancelado"
-    },
-    {
-      "callsign": "JJ3155",
-      "airline": "LATAM Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T11:35:00+00:00",
-      "time_iso": "2026-09-16T11:06:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ4738",
+      "callsign": "LA3011",
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T11:30:00+00:00",
-      "time_iso": "2026-09-16T11:17:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3641",
-      "airline": "LATAM Airlines",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-09-16T11:10:00+00:00",
-      "time_iso": "2026-09-16T11:20:00+00:00",
-      "status": "pousado"
+      "scheduled": "2026-09-17T18:30:00+00:00",
+      "time_iso": "2026-09-17T18:30:00+00:00",
+      "status": "programado"
     }
   ],
   "departures": [
     {
-      "callsign": "TP4024",
-      "airline": "TAP Air Portugal",
-      "airport": "SBRF",
-      "airport_name": "Recife",
-      "scheduled": "2026-09-16T17:50:00+00:00",
-      "time_iso": "2026-09-16T17:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JJ3532",
+      "callsign": "JJ3272",
       "airline": "LATAM Airlines",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T13:00:00+00:00",
-      "time_iso": "2026-09-16T13:00:00+00:00",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-09-17T12:50:00+00:00",
+      "time_iso": "2026-09-17T12:51:00+00:00",
       "status": "em voo"
     },
     {
@@ -929,53 +920,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T20:05:00+00:00",
-      "time_iso": "2026-09-16T20:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3012",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T19:55:00+00:00",
-      "time_iso": "2026-09-16T19:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31320",
-      "airline": "GOL",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T19:55:00+00:00",
-      "time_iso": "2026-09-16T19:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5835",
-      "airline": "TAP Air Portugal",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T19:55:00+00:00",
-      "time_iso": "2026-09-16T19:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "CM3542",
-      "airline": "Copa Airlines",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T19:55:00+00:00",
-      "time_iso": "2026-09-16T19:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31202",
-      "airline": "GOL",
-      "airport": "SBJV",
-      "airport_name": "Joinville",
-      "scheduled": "2026-09-16T19:55:00+00:00",
-      "time_iso": "2026-09-16T19:55:00+00:00",
+      "scheduled": "2026-09-17T20:05:00+00:00",
+      "time_iso": "2026-09-17T20:05:00+00:00",
       "status": "programado"
     },
     {
@@ -983,8 +929,53 @@
       "airline": "LATAM Airlines",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T19:50:00+00:00",
-      "time_iso": "2026-09-16T19:50:00+00:00",
+      "scheduled": "2026-09-17T19:55:00+00:00",
+      "time_iso": "2026-09-17T19:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31320",
+      "airline": "GOL",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T19:55:00+00:00",
+      "time_iso": "2026-09-17T19:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5962",
+      "airline": "TAP Air Portugal",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T19:55:00+00:00",
+      "time_iso": "2026-09-17T19:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM3542",
+      "airline": "Copa Airlines",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T19:55:00+00:00",
+      "time_iso": "2026-09-17T19:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31202",
+      "airline": "GOL",
+      "airport": "SBJV",
+      "airport_name": "Joinville",
+      "scheduled": "2026-09-17T19:55:00+00:00",
+      "time_iso": "2026-09-17T19:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3012",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T19:50:00+00:00",
+      "time_iso": "2026-09-17T19:50:00+00:00",
       "status": "programado"
     },
     {
@@ -992,35 +983,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBFL",
       "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T19:40:00+00:00",
-      "time_iso": "2026-09-16T19:40:00+00:00",
+      "scheduled": "2026-09-17T19:40:00+00:00",
+      "time_iso": "2026-09-17T19:40:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "G32169",
-      "airline": "GOL",
-      "airport": "SBGL",
-      "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-09-16T19:40:00+00:00",
-      "time_iso": "2026-09-16T19:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31044",
-      "airline": "GOL",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T19:40:00+00:00",
-      "time_iso": "2026-09-16T19:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3932",
-      "airline": "LATAM Airlines",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T19:35:00+00:00",
-      "time_iso": "2026-09-16T19:35:00+00:00",
+      "callsign": "TP5681",
+      "airline": "TAP Air Portugal",
+      "airport": "SBFL",
+      "airport_name": "Florianopolis",
+      "scheduled": "2026-09-17T19:40:00+00:00",
+      "time_iso": "2026-09-17T19:40:00+00:00",
       "status": "programado"
     },
     {
@@ -1028,71 +1001,26 @@
       "airline": "GOL",
       "airport": "SBFL",
       "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T19:25:00+00:00",
-      "time_iso": "2026-09-16T19:25:00+00:00",
+      "scheduled": "2026-09-17T19:40:00+00:00",
+      "time_iso": "2026-09-17T19:40:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "AD2856",
-      "airline": "Azul",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T19:25:00+00:00",
-      "time_iso": "2026-09-16T19:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5327",
-      "airline": "TAP Air Portugal",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T19:25:00+00:00",
-      "time_iso": "2026-09-16T19:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "CM7040",
-      "airline": "Copa Airlines",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T19:25:00+00:00",
-      "time_iso": "2026-09-16T19:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD4008",
-      "airline": "Azul",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T19:15:00+00:00",
-      "time_iso": "2026-09-16T19:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA4736",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T19:15:00+00:00",
-      "time_iso": "2026-09-16T19:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31042",
+      "callsign": "G31044",
       "airline": "GOL",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T19:15:00+00:00",
-      "time_iso": "2026-09-16T19:15:00+00:00",
+      "scheduled": "2026-09-17T19:40:00+00:00",
+      "time_iso": "2026-09-17T19:40:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "LA3162",
+      "callsign": "LA3932",
       "airline": "LATAM Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T19:10:00+00:00",
-      "time_iso": "2026-09-16T19:10:00+00:00",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T19:35:00+00:00",
+      "time_iso": "2026-09-17T19:35:00+00:00",
       "status": "programado"
     },
     {
@@ -1100,224 +1028,71 @@
       "airline": "GOL",
       "airport": "SBMG",
       "airport_name": "Maringa",
-      "scheduled": "2026-09-16T19:10:00+00:00",
-      "time_iso": "2026-09-16T19:10:00+00:00",
+      "scheduled": "2026-09-17T19:25:00+00:00",
+      "time_iso": "2026-09-17T19:25:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "JJ9006",
-      "airline": "LATAM Airlines",
-      "airport": "SBLO",
-      "airport_name": "Londrina",
-      "scheduled": "2026-09-16T13:00:00+00:00",
-      "time_iso": "2026-09-16T13:00:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3102",
-      "airline": "LATAM Airlines",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-09-16T12:40:00+00:00",
-      "time_iso": "2026-09-16T12:46:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JJ3871",
-      "airline": "LATAM Airlines",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T12:00:00+00:00",
-      "time_iso": "2026-09-16T12:37:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3062",
-      "airline": "LATAM Airlines",
-      "airport": "SBCT",
-      "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T12:10:00+00:00",
-      "time_iso": "2026-09-16T12:32:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3930",
-      "airline": "LATAM Airlines",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T12:25:00+00:00",
-      "time_iso": "2026-09-16T13:03:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3122",
-      "airline": "LATAM Airlines",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T11:30:00+00:00",
-      "time_iso": "2026-09-16T12:11:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3034",
-      "airline": "LATAM Airlines",
-      "airport": "SBFL",
-      "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T11:40:00+00:00",
-      "time_iso": "2026-09-16T11:54:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA4532",
-      "airline": "LATAM Airlines",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T19:00:00+00:00",
-      "time_iso": "2026-09-16T19:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3964",
-      "airline": "LATAM Airlines",
-      "airport": "SBSR",
-      "airport_name": "SBSR",
-      "scheduled": "2026-09-16T19:00:00+00:00",
-      "time_iso": "2026-09-16T19:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3064",
-      "airline": "LATAM Airlines",
-      "airport": "SBFL",
-      "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T18:55:00+00:00",
-      "time_iso": "2026-09-16T18:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31318",
-      "airline": "GOL",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T18:55:00+00:00",
-      "time_iso": "2026-09-16T18:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP4034",
-      "airline": "TAP Air Portugal",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T18:55:00+00:00",
-      "time_iso": "2026-09-16T18:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD6028",
+      "callsign": "AD2856",
       "airline": "Azul",
-      "airport": "SBCT",
-      "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T18:55:00+00:00",
-      "time_iso": "2026-09-16T18:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31040",
-      "airline": "GOL",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T18:45:00+00:00",
-      "time_iso": "2026-09-16T18:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31350",
-      "airline": "GOL",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-09-16T18:45:00+00:00",
-      "time_iso": "2026-09-16T18:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3090",
-      "airline": "LATAM Airlines",
-      "airport": "SBCT",
-      "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T18:40:00+00:00",
-      "time_iso": "2026-09-16T18:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3926",
-      "airline": "LATAM Airlines",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T18:35:00+00:00",
-      "time_iso": "2026-09-16T18:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3140",
-      "airline": "LATAM Airlines",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-09-16T18:35:00+00:00",
-      "time_iso": "2026-09-16T18:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3046",
-      "airline": "LATAM Airlines",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T18:30:00+00:00",
-      "time_iso": "2026-09-16T18:30:00+00:00",
+      "scheduled": "2026-09-17T19:25:00+00:00",
+      "time_iso": "2026-09-17T19:25:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "G31284",
-      "airline": "GOL",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T18:25:00+00:00",
-      "time_iso": "2026-09-16T18:25:00+00:00",
+      "callsign": "CM7040",
+      "airline": "Copa Airlines",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T19:25:00+00:00",
+      "time_iso": "2026-09-17T19:25:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "LA3616",
+      "callsign": "LA4736",
       "airline": "LATAM Airlines",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-09-16T18:20:00+00:00",
-      "time_iso": "2026-09-16T18:20:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3096",
-      "airline": "LATAM Airlines",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-09-16T18:20:00+00:00",
-      "time_iso": "2026-09-16T18:20:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31416",
-      "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T18:20:00+00:00",
-      "time_iso": "2026-09-16T18:20:00+00:00",
+      "scheduled": "2026-09-17T19:15:00+00:00",
+      "time_iso": "2026-09-17T19:15:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "G31036",
+      "callsign": "G31042",
       "airline": "GOL",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T18:15:00+00:00",
-      "time_iso": "2026-09-16T18:15:00+00:00",
+      "scheduled": "2026-09-17T19:15:00+00:00",
+      "time_iso": "2026-09-17T19:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD4008",
+      "airline": "Azul",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T19:15:00+00:00",
+      "time_iso": "2026-09-17T19:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3162",
+      "airline": "LATAM Airlines",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T19:10:00+00:00",
+      "time_iso": "2026-09-17T19:10:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31450",
+      "airline": "GOL",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-09-17T19:10:00+00:00",
+      "time_iso": "2026-09-17T19:10:00+00:00",
       "status": "programado"
     },
     {
@@ -1325,8 +1100,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T17:20:00+00:00",
-      "time_iso": "2026-09-16T17:20:00+00:00",
+      "scheduled": "2026-09-17T17:20:00+00:00",
+      "time_iso": "2026-09-17T17:20:00+00:00",
       "status": "programado"
     },
     {
@@ -1334,8 +1109,242 @@
       "airline": "Aerolineas Argentinas",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T17:20:00+00:00",
-      "time_iso": "2026-09-16T17:20:00+00:00",
+      "scheduled": "2026-09-17T17:20:00+00:00",
+      "time_iso": "2026-09-17T17:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3034",
+      "airline": "LATAM Airlines",
+      "airport": "SBFL",
+      "airport_name": "Florianopolis",
+      "scheduled": "2026-09-17T11:40:00+00:00",
+      "time_iso": "2026-09-17T12:47:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3871",
+      "airline": "LATAM Airlines",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T12:00:00+00:00",
+      "time_iso": "2026-09-17T12:11:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ4732",
+      "airline": "LATAM Airlines",
+      "airport": "SBSG",
+      "airport_name": "Natal",
+      "scheduled": "2026-09-17T11:25:00+00:00",
+      "time_iso": "2026-09-17T12:27:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ4700",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T12:15:00+00:00",
+      "time_iso": "2026-09-17T12:18:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "LA4532",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T19:00:00+00:00",
+      "time_iso": "2026-09-17T19:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3964",
+      "airline": "LATAM Airlines",
+      "airport": "SBSR",
+      "airport_name": "SBSR",
+      "scheduled": "2026-09-17T19:00:00+00:00",
+      "time_iso": "2026-09-17T19:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3064",
+      "airline": "LATAM Airlines",
+      "airport": "SBFL",
+      "airport_name": "Florianopolis",
+      "scheduled": "2026-09-17T18:55:00+00:00",
+      "time_iso": "2026-09-17T18:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31318",
+      "airline": "GOL",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T18:55:00+00:00",
+      "time_iso": "2026-09-17T18:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5961",
+      "airline": "TAP Air Portugal",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T18:55:00+00:00",
+      "time_iso": "2026-09-17T18:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM3512",
+      "airline": "Copa Airlines",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T18:55:00+00:00",
+      "time_iso": "2026-09-17T18:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD6028",
+      "airline": "Azul",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-09-17T18:55:00+00:00",
+      "time_iso": "2026-09-17T18:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31350",
+      "airline": "GOL",
+      "airport": "SBVT",
+      "airport_name": "Vitoria",
+      "scheduled": "2026-09-17T18:45:00+00:00",
+      "time_iso": "2026-09-17T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31040",
+      "airline": "GOL",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T18:45:00+00:00",
+      "time_iso": "2026-09-17T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3090",
+      "airline": "LATAM Airlines",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-09-17T18:40:00+00:00",
+      "time_iso": "2026-09-17T18:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3926",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T18:35:00+00:00",
+      "time_iso": "2026-09-17T18:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3140",
+      "airline": "LATAM Airlines",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-09-17T18:35:00+00:00",
+      "time_iso": "2026-09-17T18:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31284",
+      "airline": "GOL",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T18:35:00+00:00",
+      "time_iso": "2026-09-17T18:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5925",
+      "airline": "TAP Air Portugal",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T18:35:00+00:00",
+      "time_iso": "2026-09-17T18:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM3560",
+      "airline": "Copa Airlines",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T18:35:00+00:00",
+      "time_iso": "2026-09-17T18:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3046",
+      "airline": "LATAM Airlines",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T18:30:00+00:00",
+      "time_iso": "2026-09-17T18:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3616",
+      "airline": "LATAM Airlines",
+      "airport": "SBGO",
+      "airport_name": "Goiania",
+      "scheduled": "2026-09-17T18:20:00+00:00",
+      "time_iso": "2026-09-17T18:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3096",
+      "airline": "LATAM Airlines",
+      "airport": "SBUL",
+      "airport_name": "Uberlandia",
+      "scheduled": "2026-09-17T18:20:00+00:00",
+      "time_iso": "2026-09-17T18:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31416",
+      "airline": "GOL",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T18:20:00+00:00",
+      "time_iso": "2026-09-17T18:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5948",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T18:20:00+00:00",
+      "time_iso": "2026-09-17T18:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM3591",
+      "airline": "Copa Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T18:20:00+00:00",
+      "time_iso": "2026-09-17T18:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31036",
+      "airline": "GOL",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T18:15:00+00:00",
+      "time_iso": "2026-09-17T18:15:00+00:00",
       "status": "programado"
     },
     {
@@ -1343,35 +1352,44 @@
       "airline": "TAP Air Portugal",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T16:55:00+00:00",
-      "time_iso": "2026-09-16T16:55:00+00:00",
+      "scheduled": "2026-09-17T16:55:00+00:00",
+      "time_iso": "2026-09-17T16:55:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "TP5966",
+      "callsign": "TP4069",
       "airline": "TAP Air Portugal",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T16:15:00+00:00",
-      "time_iso": "2026-09-16T16:15:00+00:00",
-      "status": "cancelado"
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T16:35:00+00:00",
+      "time_iso": "2026-09-17T16:35:00+00:00",
+      "status": "programado"
     },
     {
-      "callsign": "AR8080",
-      "airline": "Aerolineas Argentinas",
+      "callsign": "JJ3122",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T11:30:00+00:00",
+      "time_iso": "2026-09-17T11:51:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "TP5881",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-17T16:50:00+00:00",
+      "time_iso": "2026-09-17T16:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3154",
+      "airline": "LATAM Airlines",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T15:55:00+00:00",
-      "time_iso": "2026-09-16T15:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JJ4732",
-      "airline": "LATAM Airlines",
-      "airport": "SBSG",
-      "airport_name": "Natal",
-      "scheduled": "2026-09-16T11:25:00+00:00",
-      "time_iso": "2026-09-16T11:38:00+00:00",
+      "scheduled": "2026-09-17T11:20:00+00:00",
+      "time_iso": "2026-09-17T11:27:00+00:00",
       "status": "em voo"
     },
     {
@@ -1379,260 +1397,26 @@
       "airline": "LATAM Airlines",
       "airport": "SBLO",
       "airport_name": "Londrina",
-      "scheduled": "2026-09-16T11:10:00+00:00",
-      "time_iso": "2026-09-16T11:29:00+00:00",
+      "scheduled": "2026-09-17T11:10:00+00:00",
+      "time_iso": "2026-09-17T11:29:00+00:00",
       "status": "em voo"
-    },
-    {
-      "callsign": "JJ4520",
-      "airline": "LATAM Airlines",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-09-16T10:40:00+00:00",
-      "time_iso": "2026-09-16T11:10:00+00:00",
-      "status": "programado"
     },
     {
       "callsign": "JJ3050",
       "airline": "LATAM Airlines",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T11:05:00+00:00",
-      "time_iso": "2026-09-16T11:22:00+00:00",
+      "scheduled": "2026-09-17T11:05:00+00:00",
+      "time_iso": "2026-09-17T11:33:00+00:00",
       "status": "pousado"
     },
     {
-      "callsign": "LA3914",
+      "callsign": "JJ4520",
       "airline": "LATAM Airlines",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T18:05:00+00:00",
-      "time_iso": "2026-09-16T18:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3160",
-      "airline": "LATAM Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T18:05:00+00:00",
-      "time_iso": "2026-09-16T18:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3088",
-      "airline": "LATAM Airlines",
-      "airport": "SBFL",
-      "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T18:05:00+00:00",
-      "time_iso": "2026-09-16T18:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD6019",
-      "airline": "Azul",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T18:00:00+00:00",
-      "time_iso": "2026-09-16T18:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31636",
-      "airline": "GOL",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T17:55:00+00:00",
-      "time_iso": "2026-09-16T17:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP4149",
-      "airline": "TAP Air Portugal",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T17:55:00+00:00",
-      "time_iso": "2026-09-16T17:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "CM3533",
-      "airline": "Copa Airlines",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T17:55:00+00:00",
-      "time_iso": "2026-09-16T17:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD5070",
-      "airline": "Azul",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T17:55:00+00:00",
-      "time_iso": "2026-09-16T17:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31116",
-      "airline": "GOL",
-      "airport": "SBCT",
-      "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T17:55:00+00:00",
-      "time_iso": "2026-09-16T17:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31618",
-      "airline": "GOL",
-      "airport": "SBRF",
-      "airport_name": "Recife",
-      "scheduled": "2026-09-16T17:50:00+00:00",
-      "time_iso": "2026-09-16T17:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5972",
-      "airline": "TAP Air Portugal",
-      "airport": "SBRF",
-      "airport_name": "Recife",
-      "scheduled": "2026-09-16T17:50:00+00:00",
-      "time_iso": "2026-09-16T17:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3924",
-      "airline": "LATAM Airlines",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T17:45:00+00:00",
-      "time_iso": "2026-09-16T17:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3070",
-      "airline": "LATAM Airlines",
-      "airport": "SBCT",
-      "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T17:35:00+00:00",
-      "time_iso": "2026-09-16T17:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31034",
-      "airline": "GOL",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T17:35:00+00:00",
-      "time_iso": "2026-09-16T17:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3158",
-      "airline": "LATAM Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T17:30:00+00:00",
-      "time_iso": "2026-09-16T17:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD4243",
-      "airline": "Azul",
-      "airport": "SBRF",
-      "airport_name": "Recife",
-      "scheduled": "2026-09-16T17:30:00+00:00",
-      "time_iso": "2026-09-16T17:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31316",
-      "airline": "GOL",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T17:25:00+00:00",
-      "time_iso": "2026-09-16T17:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5960",
-      "airline": "TAP Air Portugal",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T17:25:00+00:00",
-      "time_iso": "2026-09-16T17:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31540",
-      "airline": "GOL",
-      "airport": "SBMO",
-      "airport_name": "Maceio",
-      "scheduled": "2026-09-16T17:25:00+00:00",
-      "time_iso": "2026-09-16T17:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31282",
-      "airline": "GOL",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T17:20:00+00:00",
-      "time_iso": "2026-09-16T17:20:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5884",
-      "airline": "TAP Air Portugal",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T17:20:00+00:00",
-      "time_iso": "2026-09-16T17:20:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3644",
-      "airline": "LATAM Airlines",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-09-16T17:15:00+00:00",
-      "time_iso": "2026-09-16T17:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD6504",
-      "airline": "Azul",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T17:15:00+00:00",
-      "time_iso": "2026-09-16T17:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31258",
-      "airline": "GOL",
-      "airport": "SBFL",
-      "airport_name": "Florianopolis",
-      "scheduled": "2026-09-16T17:10:00+00:00",
-      "time_iso": "2026-09-16T17:10:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AF2002",
-      "airline": "Air France",
-      "airport": "SBGL",
-      "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-09-16T15:25:00+00:00",
-      "time_iso": "2026-09-16T15:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JJ3624",
-      "airline": "LATAM Airlines",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-09-16T10:50:00+00:00",
-      "time_iso": "2026-09-16T11:03:00+00:00",
+      "airport": "SBFI",
+      "airport_name": "Foz do Iguacu",
+      "scheduled": "2026-09-17T10:40:00+00:00",
+      "time_iso": "2026-09-17T11:05:00+00:00",
       "status": "em voo"
     },
     {
@@ -1640,35 +1424,260 @@
       "airline": "LATAM Airlines",
       "airport": "SBSL",
       "airport_name": "Sao Luis",
-      "scheduled": "2026-09-16T10:30:00+00:00",
-      "time_iso": "2026-09-16T11:05:00+00:00",
+      "scheduled": "2026-09-17T10:30:00+00:00",
+      "time_iso": "2026-09-17T11:20:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "JJ3574",
+      "callsign": "JJ3624",
+      "airline": "LATAM Airlines",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T10:50:00+00:00",
+      "time_iso": "2026-09-17T11:18:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "LA3914",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T18:05:00+00:00",
+      "time_iso": "2026-09-17T18:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD6019",
+      "airline": "Azul",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T18:00:00+00:00",
+      "time_iso": "2026-09-17T18:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31636",
+      "airline": "GOL",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T17:55:00+00:00",
+      "time_iso": "2026-09-17T17:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP4149",
+      "airline": "TAP Air Portugal",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T17:55:00+00:00",
+      "time_iso": "2026-09-17T17:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM3533",
+      "airline": "Copa Airlines",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T17:55:00+00:00",
+      "time_iso": "2026-09-17T17:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31116",
+      "airline": "GOL",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-09-17T17:55:00+00:00",
+      "time_iso": "2026-09-17T17:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD5070",
+      "airline": "Azul",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T17:55:00+00:00",
+      "time_iso": "2026-09-17T17:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31618",
+      "airline": "GOL",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-09-17T17:50:00+00:00",
+      "time_iso": "2026-09-17T17:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP4011",
+      "airline": "TAP Air Portugal",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-09-17T17:50:00+00:00",
+      "time_iso": "2026-09-17T17:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3924",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T17:45:00+00:00",
+      "time_iso": "2026-09-17T17:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3070",
       "airline": "LATAM Airlines",
       "airport": "SBCT",
       "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T10:35:00+00:00",
-      "time_iso": "2026-09-16T10:41:00+00:00",
+      "scheduled": "2026-09-17T17:35:00+00:00",
+      "time_iso": "2026-09-17T17:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31034",
+      "airline": "GOL",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T17:35:00+00:00",
+      "time_iso": "2026-09-17T17:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3158",
+      "airline": "LATAM Airlines",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T17:30:00+00:00",
+      "time_iso": "2026-09-17T17:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD4243",
+      "airline": "Azul",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-09-17T17:30:00+00:00",
+      "time_iso": "2026-09-17T17:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31540",
+      "airline": "GOL",
+      "airport": "SBMO",
+      "airport_name": "Maceio",
+      "scheduled": "2026-09-17T17:25:00+00:00",
+      "time_iso": "2026-09-17T17:25:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31316",
+      "airline": "GOL",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T17:25:00+00:00",
+      "time_iso": "2026-09-17T17:25:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5960",
+      "airline": "TAP Air Portugal",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T17:25:00+00:00",
+      "time_iso": "2026-09-17T17:25:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31282",
+      "airline": "GOL",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T17:20:00+00:00",
+      "time_iso": "2026-09-17T17:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5884",
+      "airline": "TAP Air Portugal",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T17:20:00+00:00",
+      "time_iso": "2026-09-17T17:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3644",
+      "airline": "LATAM Airlines",
+      "airport": "SBVT",
+      "airport_name": "Vitoria",
+      "scheduled": "2026-09-17T17:15:00+00:00",
+      "time_iso": "2026-09-17T17:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD6504",
+      "airline": "Azul",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T17:15:00+00:00",
+      "time_iso": "2026-09-17T17:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31258",
+      "airline": "GOL",
+      "airport": "SBFL",
+      "airport_name": "Florianopolis",
+      "scheduled": "2026-09-17T17:10:00+00:00",
+      "time_iso": "2026-09-17T17:10:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3910",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-09-17T10:20:00+00:00",
+      "time_iso": "2026-09-17T10:48:00+00:00",
       "status": "em voo"
+    },
+    {
+      "callsign": "TP5966",
+      "airline": "TAP Air Portugal",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-17T16:15:00+00:00",
+      "time_iso": "2026-09-17T16:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8080",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T15:55:00+00:00",
+      "time_iso": "2026-09-17T15:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AF2002",
+      "airline": "Air France",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-09-17T15:25:00+00:00",
+      "time_iso": "2026-09-17T15:25:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "JJ3006",
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T10:15:00+00:00",
-      "time_iso": "2026-09-16T10:30:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3800",
-      "airline": "LATAM Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T09:55:00+00:00",
-      "time_iso": "2026-09-16T10:07:00+00:00",
+      "scheduled": "2026-09-17T10:15:00+00:00",
+      "time_iso": "2026-09-17T10:30:00+00:00",
       "status": "em voo"
     },
     {
@@ -1676,8 +1685,35 @@
       "airline": "LATAM Airlines",
       "airport": "SBUL",
       "airport_name": "Uberlandia",
-      "scheduled": "2026-09-16T10:05:00+00:00",
-      "time_iso": "2026-09-16T10:21:00+00:00",
+      "scheduled": "2026-09-17T10:05:00+00:00",
+      "time_iso": "2026-09-17T10:18:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3614",
+      "airline": "LATAM Airlines",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-09-17T09:55:00+00:00",
+      "time_iso": "2026-09-17T10:15:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3800",
+      "airline": "LATAM Airlines",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-09-17T09:55:00+00:00",
+      "time_iso": "2026-09-17T09:54:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3144",
+      "airline": "LATAM Airlines",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-09-17T09:50:00+00:00",
+      "time_iso": "2026-09-17T10:11:00+00:00",
       "status": "em voo"
     },
     {
@@ -1685,8 +1721,8 @@
       "airline": "GOL",
       "airport": "SBFZ",
       "airport_name": "Fortaleza",
-      "scheduled": "2026-09-16T17:05:00+00:00",
-      "time_iso": "2026-09-16T17:05:00+00:00",
+      "scheduled": "2026-09-17T17:05:00+00:00",
+      "time_iso": "2026-09-17T17:05:00+00:00",
       "status": "programado"
     },
     {
@@ -1694,8 +1730,8 @@
       "airline": "Azul",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T17:05:00+00:00",
-      "time_iso": "2026-09-16T17:05:00+00:00",
+      "scheduled": "2026-09-17T17:05:00+00:00",
+      "time_iso": "2026-09-17T17:05:00+00:00",
       "status": "programado"
     },
     {
@@ -1703,8 +1739,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T17:00:00+00:00",
-      "time_iso": "2026-09-16T17:00:00+00:00",
+      "scheduled": "2026-09-17T17:00:00+00:00",
+      "time_iso": "2026-09-17T17:00:00+00:00",
       "status": "programado"
     },
     {
@@ -1712,8 +1748,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBRP",
       "airport_name": "Ribeirao Preto",
-      "scheduled": "2026-09-16T17:00:00+00:00",
-      "time_iso": "2026-09-16T17:00:00+00:00",
+      "scheduled": "2026-09-17T17:00:00+00:00",
+      "time_iso": "2026-09-17T17:00:00+00:00",
       "status": "programado"
     },
     {
@@ -1721,8 +1757,8 @@
       "airline": "GOL",
       "airport": "SBRJ",
       "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T16:55:00+00:00",
-      "time_iso": "2026-09-16T16:55:00+00:00",
+      "scheduled": "2026-09-17T16:55:00+00:00",
+      "time_iso": "2026-09-17T16:55:00+00:00",
       "status": "programado"
     },
     {
@@ -1730,8 +1766,8 @@
       "airline": "Azul",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-09-16T16:55:00+00:00",
-      "time_iso": "2026-09-16T16:55:00+00:00",
+      "scheduled": "2026-09-17T16:55:00+00:00",
+      "time_iso": "2026-09-17T16:55:00+00:00",
       "status": "programado"
     },
     {
@@ -1739,17 +1775,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T16:50:00+00:00",
-      "time_iso": "2026-09-16T16:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5881",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-16T16:50:00+00:00",
-      "time_iso": "2026-09-16T16:50:00+00:00",
+      "scheduled": "2026-09-17T16:50:00+00:00",
+      "time_iso": "2026-09-17T16:50:00+00:00",
       "status": "programado"
     },
     {
@@ -1757,8 +1784,8 @@
       "airline": "GOL",
       "airport": "SBNF",
       "airport_name": "Navegantes",
-      "scheduled": "2026-09-16T16:50:00+00:00",
-      "time_iso": "2026-09-16T16:50:00+00:00",
+      "scheduled": "2026-09-17T16:50:00+00:00",
+      "time_iso": "2026-09-17T16:50:00+00:00",
       "status": "programado"
     },
     {
@@ -1766,44 +1793,17 @@
       "airline": "GOL",
       "airport": "SBGO",
       "airport_name": "Goiania",
-      "scheduled": "2026-09-16T16:45:00+00:00",
-      "time_iso": "2026-09-16T16:45:00+00:00",
+      "scheduled": "2026-09-17T16:45:00+00:00",
+      "time_iso": "2026-09-17T16:45:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "G31548",
+      "callsign": "G31634",
       "airline": "GOL",
-      "airport": "SBSG",
-      "airport_name": "Natal",
-      "scheduled": "2026-09-16T16:35:00+00:00",
-      "time_iso": "2026-09-16T16:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31030",
-      "airline": "GOL",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-09-16T16:30:00+00:00",
-      "time_iso": "2026-09-16T16:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31114",
-      "airline": "GOL",
-      "airport": "SBCT",
-      "airport_name": "Curitiba",
-      "scheduled": "2026-09-16T16:25:00+00:00",
-      "time_iso": "2026-09-16T16:25:00+00:00",
-      "status": "cancelado"
-    },
-    {
-      "callsign": "AD6402",
-      "airline": "Azul",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-16T16:25:00+00:00",
-      "time_iso": "2026-09-16T16:25:00+00:00",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-09-17T16:35:00+00:00",
+      "time_iso": "2026-09-17T16:35:00+00:00",
       "status": "programado"
     }
   ]
